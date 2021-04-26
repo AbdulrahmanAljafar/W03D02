@@ -1,0 +1,13 @@
+C:\Users\abdul\OneDrive\سطح المكتب\tuwaiq .net\W03D02\W03D02\bin\Debug\netcoreapp3.1\W03D02.exe
+C:\Users\abdul\OneDrive\سطح المكتب\tuwaiq .net\W03D02\W03D02\bin\Debug\netcoreapp3.1\W03D02.deps.json
+C:\Users\abdul\OneDrive\سطح المكتب\tuwaiq .net\W03D02\W03D02\bin\Debug\netcoreapp3.1\W03D02.runtimeconfig.json
+C:\Users\abdul\OneDrive\سطح المكتب\tuwaiq .net\W03D02\W03D02\bin\Debug\netcoreapp3.1\W03D02.runtimeconfig.dev.json
+C:\Users\abdul\OneDrive\سطح المكتب\tuwaiq .net\W03D02\W03D02\bin\Debug\netcoreapp3.1\W03D02.dll
+C:\Users\abdul\OneDrive\سطح المكتب\tuwaiq .net\W03D02\W03D02\bin\Debug\netcoreapp3.1\W03D02.pdb
+C:\Users\abdul\OneDrive\سطح المكتب\tuwaiq .net\W03D02\W03D02\obj\Debug\netcoreapp3.1\W03D02.csprojAssemblyReference.cache
+C:\Users\abdul\OneDrive\سطح المكتب\tuwaiq .net\W03D02\W03D02\obj\Debug\netcoreapp3.1\W03D02.AssemblyInfoInputs.cache
+C:\Users\abdul\OneDrive\سطح المكتب\tuwaiq .net\W03D02\W03D02\obj\Debug\netcoreapp3.1\W03D02.AssemblyInfo.cs
+C:\Users\abdul\OneDrive\سطح المكتب\tuwaiq .net\W03D02\W03D02\obj\Debug\netcoreapp3.1\W03D02.csproj.CoreCompileInputs.cache
+C:\Users\abdul\OneDrive\سطح المكتب\tuwaiq .net\W03D02\W03D02\obj\Debug\netcoreapp3.1\W03D02.dll
+C:\Users\abdul\OneDrive\سطح المكتب\tuwaiq .net\W03D02\W03D02\obj\Debug\netcoreapp3.1\W03D02.pdb
+C:\Users\abdul\OneDrive\سطح المكتب\tuwaiq .net\W03D02\W03D02\obj\Debug\netcoreapp3.1\W03D02.genruntimeconfig.cache
